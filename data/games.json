@@ -1,0 +1,584 @@
+{
+  "games": [
+    {
+      "id": "trimps",
+      "title": "Trimps",
+      "slug": "trimps",
+      "description": "Trimps",
+      "category": "simulation",
+      "tags": [
+        "html5",
+        "simulation"
+      ],
+      "thumbnail": "/images/games/trimps.png",
+      "gameUrl": "/gfiles/html5/trimps/",
+      "gameType": "html5",
+      "isHot": false,
+      "featured": false,
+      "difficulty": "normal",
+      "players": "single",
+      "createdAt": "2025-06-18",
+      "stats": {
+        "plays": 1000,
+        "rating": "4.5",
+        "reviews": 10
+      },
+      "iframeSettings": {
+        "width": "100%",
+        "height": "600px",
+        "allowFullscreen": true
+      }
+    },
+    {
+      "id": "minecraft",
+      "title": "Minecraft",
+      "slug": "minecraft",
+      "description": "Minecraft",
+      "category": "simulation",
+      "tags": [
+        "html5",
+        "simulation"
+      ],
+      "thumbnail": "/images/games/minecraft.png",
+      "gameUrl": "/gfiles/html5/minecraft/",
+      "gameType": "html5",
+      "isHot": false,
+      "featured": false,
+      "difficulty": "normal",
+      "players": "single",
+      "createdAt": "2025-06-18",
+      "stats": {
+        "plays": 1000,
+        "rating": "4.5",
+        "reviews": 10
+      },
+      "iframeSettings": {
+        "width": "100%",
+        "height": "600px",
+        "allowFullscreen": true
+      }
+    },
+    {
+      "id": "q1k3",
+      "title": "Q1k3",
+      "slug": "q1k3",
+      "description": "Q1k3",
+      "category": "shooter",
+      "tags": [
+        "html5",
+        "shooter"
+      ],
+      "thumbnail": "/images/games/q1k3.png",
+      "gameUrl": "/gfiles/html5/q1k3/",
+      "gameType": "html5",
+      "isHot": false,
+      "featured": false,
+      "difficulty": "normal",
+      "players": "single",
+      "createdAt": "2025-06-18",
+      "stats": {
+        "plays": 1000,
+        "rating": "4.5",
+        "reviews": 10
+      },
+      "iframeSettings": {
+        "width": "100%",
+        "height": "600px",
+        "allowFullscreen": true
+      }
+    },
+    {
+      "id": "cookieclicker",
+      "title": "Cookie Clicker",
+      "slug": "cookieclicker",
+      "description": "Cookie Clicker",
+      "category": "simulation",
+      "tags": [
+        "html5",
+        "simulation"
+      ],
+      "thumbnail": "/images/games/cookieclicker.png",
+      "gameUrl": "/gfiles/html5/cookieclicker/",
+      "gameType": "html5",
+      "isHot": false,
+      "featured": false,
+      "difficulty": "normal",
+      "players": "single",
+      "createdAt": "2025-06-18",
+      "stats": {
+        "plays": 1000,
+        "rating": "4.5",
+        "reviews": 10
+      },
+      "iframeSettings": {
+        "width": "100%",
+        "height": "600px",
+        "allowFullscreen": true
+      }
+    },
+    {
+      "id": "evilglitch",
+      "title": "Evil Glitch",
+      "slug": "evilglitch",
+      "description": "Evil Glitch",
+      "category": "shooter",
+      "tags": [
+        "html5",
+        "shooter"
+      ],
+      "thumbnail": "/images/games/evilglitch.png",
+      "gameUrl": "/gfiles/html5/evilglitch/",
+      "gameType": "html5",
+      "isHot": false,
+      "featured": false,
+      "difficulty": "normal",
+      "players": "single",
+      "createdAt": "2025-06-18",
+      "stats": {
+        "plays": 1000,
+        "rating": "4.5",
+        "reviews": 10
+      },
+      "iframeSettings": {
+        "width": "100%",
+        "height": "600px",
+        "allowFullscreen": true
+      }
+    },
+    {
+      "id": "geometrydash",
+      "title": "Geometry Dash",
+      "slug": "geometrydash",
+      "description": "Geometry Dash",
+      "category": "action",
+      "tags": [
+        "html5",
+        "action"
+      ],
+      "thumbnail": "/images/games/geometrydash.png",
+      "gameUrl": "/gfiles/html5/geometrydash/",
+      "gameType": "html5",
+      "isHot": false,
+      "featured": false,
+      "difficulty": "normal",
+      "players": "single",
+      "createdAt": "2025-06-18",
+      "stats": {
+        "plays": 1000,
+        "rating": "4.5",
+        "reviews": 10
+      },
+      "iframeSettings": {
+        "width": "100%",
+        "height": "600px",
+        "allowFullscreen": true
+      }
+    },
+    {
+      "id": "ninjavsevilcorp",
+      "title": "Ninja vs Evilcorp",
+      "slug": "ninjavsevilcorp",
+      "description": "Ninja vs Evilcorp",
+      "category": "action",
+      "tags": [
+        "html5",
+        "action"
+      ],
+      "thumbnail": "/images/games/ninjavsevilcorp.png",
+      "gameUrl": "/gfiles/html5/ninjavsevilcorp/",
+      "gameType": "html5",
+      "isHot": false,
+      "featured": false,
+      "difficulty": "normal",
+      "players": "single",
+      "createdAt": "2025-06-18",
+      "stats": {
+        "plays": 1000,
+        "rating": "4.5",
+        "reviews": 10
+      },
+      "iframeSettings": {
+        "width": "100%",
+        "height": "600px",
+        "allowFullscreen": true
+      }
+    },
+    {
+      "id": "spacegarden",
+      "title": "Space Garden",
+      "slug": "spacegarden",
+      "description": "Space Garden",
+      "category": "adventure",
+      "tags": [
+        "html5",
+        "adventure"
+      ],
+      "thumbnail": "/images/games/spacegarden.png",
+      "gameUrl": "/gfiles/html5/spacegarden/",
+      "gameType": "html5",
+      "isHot": false,
+      "featured": false,
+      "difficulty": "normal",
+      "players": "single",
+      "createdAt": "2025-06-18",
+      "stats": {
+        "plays": 1000,
+        "rating": "4.5",
+        "reviews": 10
+      },
+      "iframeSettings": {
+        "width": "100%",
+        "height": "600px",
+        "allowFullscreen": true
+      }
+    },
+    {
+      "id": "konnekt",
+      "title": "Konnekt",
+      "slug": "konnekt",
+      "description": "Konnekt",
+      "category": "puzzle",
+      "tags": [
+        "html5",
+        "puzzle"
+      ],
+      "thumbnail": "/images/games/konnekt.png",
+      "gameUrl": "/gfiles/html5/konnekt/",
+      "gameType": "html5",
+      "isHot": false,
+      "featured": false,
+      "difficulty": "normal",
+      "players": "single",
+      "createdAt": "2025-06-18",
+      "stats": {
+        "plays": 1000,
+        "rating": "4.5",
+        "reviews": 10
+      },
+      "iframeSettings": {
+        "width": "100%",
+        "height": "600px",
+        "allowFullscreen": true
+      }
+    },
+    {
+      "id": "pacman",
+      "title": "Pac-Man",
+      "slug": "pacman",
+      "description": "Pac-Man",
+      "category": "action",
+      "tags": [
+        "html5",
+        "action"
+      ],
+      "thumbnail": "/images/games/pacman.png",
+      "gameUrl": "/gfiles/html5/pacman/",
+      "gameType": "html5",
+      "isHot": false,
+      "featured": false,
+      "difficulty": "normal",
+      "players": "single",
+      "createdAt": "2025-06-18",
+      "stats": {
+        "plays": 1000,
+        "rating": "4.5",
+        "reviews": 10
+      },
+      "iframeSettings": {
+        "width": "100%",
+        "height": "600px",
+        "allowFullscreen": true
+      }
+    },
+    {
+      "id": "particleclicker",
+      "title": "Particle Clicker",
+      "slug": "particleclicker",
+      "description": "Particle Clicker",
+      "category": "simulation",
+      "tags": [
+        "html5",
+        "simulation"
+      ],
+      "thumbnail": "/images/games/particleclicker.png",
+      "gameUrl": "/gfiles/html5/particleclicker/",
+      "gameType": "html5",
+      "isHot": false,
+      "featured": false,
+      "difficulty": "normal",
+      "players": "single",
+      "createdAt": "2025-06-18",
+      "stats": {
+        "plays": 1000,
+        "rating": "4.5",
+        "reviews": 10
+      },
+      "iframeSettings": {
+        "width": "100%",
+        "height": "600px",
+        "allowFullscreen": true
+      }
+    },
+    {
+      "id": "chess",
+      "title": "Chess",
+      "slug": "chess",
+      "description": "Chess",
+      "category": "strategy",
+      "tags": [
+        "html5",
+        "strategy"
+      ],
+      "thumbnail": "/images/games/chess.png",
+      "gameUrl": "/gfiles/html5/chess/",
+      "gameType": "html5",
+      "isHot": false,
+      "featured": false,
+      "difficulty": "normal",
+      "players": "single",
+      "createdAt": "2025-06-18",
+      "stats": {
+        "plays": 1000,
+        "rating": "4.5",
+        "reviews": 10
+      },
+      "iframeSettings": {
+        "width": "100%",
+        "height": "600px",
+        "allowFullscreen": true
+      }
+    },
+    {
+      "id": "astray",
+      "title": "Astray",
+      "slug": "astray",
+      "description": "Astray",
+      "category": "puzzle",
+      "tags": [
+        "html5",
+        "puzzle"
+      ],
+      "thumbnail": "/images/games/astray.png",
+      "gameUrl": "/gfiles/html5/astray/",
+      "gameType": "html5",
+      "isHot": false,
+      "featured": false,
+      "difficulty": "normal",
+      "players": "single",
+      "createdAt": "2025-06-18",
+      "stats": {
+        "plays": 1000,
+        "rating": "4.5",
+        "reviews": 10
+      },
+      "iframeSettings": {
+        "width": "100%",
+        "height": "600px",
+        "allowFullscreen": true
+      }
+    },
+    {
+      "id": "spacehuggers",
+      "title": "Space Huggers",
+      "slug": "spacehuggers",
+      "description": "Space Huggers",
+      "category": "shooter",
+      "tags": [
+        "html5",
+        "shooter"
+      ],
+      "thumbnail": "/images/games/spacehuggers.png",
+      "gameUrl": "/gfiles/html5/spacehuggers/",
+      "gameType": "html5",
+      "isHot": false,
+      "featured": false,
+      "difficulty": "normal",
+      "players": "single",
+      "createdAt": "2025-06-18",
+      "stats": {
+        "plays": 1000,
+        "rating": "4.5",
+        "reviews": 10
+      },
+      "iframeSettings": {
+        "width": "100%",
+        "height": "600px",
+        "allowFullscreen": true
+      }
+    },
+    {
+      "id": "retrohaunt",
+      "title": "Retrohaunt",
+      "slug": "retrohaunt",
+      "description": "Retrohaunt",
+      "category": "adventure",
+      "tags": [
+        "html5",
+        "adventure"
+      ],
+      "thumbnail": "/images/games/retrohaunt.png",
+      "gameUrl": "/gfiles/html5/retrohaunt/",
+      "gameType": "html5",
+      "isHot": false,
+      "featured": false,
+      "difficulty": "normal",
+      "players": "single",
+      "createdAt": "2025-06-18",
+      "stats": {
+        "plays": 1000,
+        "rating": "4.5",
+        "reviews": 10
+      },
+      "iframeSettings": {
+        "width": "100%",
+        "height": "600px",
+        "allowFullscreen": true
+      }
+    },
+    {
+      "id": "chromedino",
+      "title": "Chrome Dino",
+      "slug": "chromedino",
+      "description": "Chrome Dino",
+      "category": "action",
+      "tags": [
+        "html5",
+        "action"
+      ],
+      "thumbnail": "/images/games/chromedino.png",
+      "gameUrl": "/gfiles/html5/chromedino/",
+      "gameType": "html5",
+      "isHot": false,
+      "featured": false,
+      "difficulty": "normal",
+      "players": "single",
+      "createdAt": "2025-06-18",
+      "stats": {
+        "plays": 1000,
+        "rating": "4.5",
+        "reviews": 10
+      },
+      "iframeSettings": {
+        "width": "100%",
+        "height": "600px",
+        "allowFullscreen": true
+      }
+    },
+    {
+      "id": "roadblocks",
+      "title": "Road Blocks",
+      "slug": "roadblocks",
+      "description": "Road Blocks",
+      "category": "puzzle",
+      "tags": [
+        "html5",
+        "puzzle"
+      ],
+      "thumbnail": "/images/games/roadblocks.png",
+      "gameUrl": "/gfiles/html5/roadblocks/",
+      "gameType": "html5",
+      "isHot": false,
+      "featured": false,
+      "difficulty": "normal",
+      "players": "single",
+      "createdAt": "2025-06-18",
+      "stats": {
+        "plays": 1000,
+        "rating": "4.5",
+        "reviews": 10
+      },
+      "iframeSettings": {
+        "width": "100%",
+        "height": "600px",
+        "allowFullscreen": true
+      }
+    },
+    {
+      "id": "snake",
+      "title": "Snake",
+      "slug": "snake",
+      "description": "Snake",
+      "category": "arcade",
+      "tags": [
+        "html5",
+        "arcade"
+      ],
+      "thumbnail": "/images/games/snake.png",
+      "gameUrl": "/gfiles/html5/snake/",
+      "gameType": "html5",
+      "isHot": false,
+      "featured": false,
+      "difficulty": "normal",
+      "players": "single",
+      "createdAt": "2025-06-18",
+      "stats": {
+        "plays": 1000,
+        "rating": "4.5",
+        "reviews": 10
+      },
+      "iframeSettings": {
+        "width": "100%",
+        "height": "600px",
+        "allowFullscreen": true
+      }
+    },
+    {
+      "id": "blackholesquare",
+      "title": "Black Hole Square",
+      "slug": "blackholesquare",
+      "description": "Black Hole Square",
+      "category": "puzzle",
+      "tags": [
+        "html5",
+        "puzzle"
+      ],
+      "thumbnail": "/images/games/blackholesquare.png",
+      "gameUrl": "/gfiles/html5/blackholesquare/",
+      "gameType": "html5",
+      "isHot": false,
+      "featured": false,
+      "difficulty": "normal",
+      "players": "single",
+      "createdAt": "2025-06-18",
+      "stats": {
+        "plays": 1000,
+        "rating": "4.5",
+        "reviews": 10
+      },
+      "iframeSettings": {
+        "width": "100%",
+        "height": "600px",
+        "allowFullscreen": true
+      }
+    },
+    {
+      "id": "shuttledeck",
+      "title": "Shuttledeck",
+      "slug": "shuttledeck",
+      "description": "Shuttledeck",
+      "category": "puzzle",
+      "tags": [
+        "html5",
+        "puzzle"
+      ],
+      "thumbnail": "/images/games/shuttledeck.png",
+      "gameUrl": "/gfiles/html5/shuttledeck/",
+      "gameType": "html5",
+      "isHot": false,
+      "featured": false,
+      "difficulty": "normal",
+      "players": "single",
+      "createdAt": "2025-06-18",
+      "stats": {
+        "plays": 1000,
+        "rating": "4.5",
+        "reviews": 10
+      },
+      "iframeSettings": {
+        "width": "100%",
+        "height": "600px",
+        "allowFullscreen": true
+      }
+    }
+  ]
+}

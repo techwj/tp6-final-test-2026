@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://game.qcpvyfp.com/sitemap.xml
